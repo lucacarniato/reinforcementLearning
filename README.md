@@ -6,7 +6,7 @@ SnakeGame.ipynb: Use stable baselines3 algorithms and costumized enviroment and 
 
 # prerequisites
 
-pip install gym
-pip install stable-baselines3
-pip install tensorflow
++ pip install gym
++ pip install stable-baselines3
++ pip install tensorflow
 
